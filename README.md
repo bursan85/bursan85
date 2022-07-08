@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+### The repositories hosted on this Github account where moved to Bitbucket. 🚚
+
+### You can access them here: -> https://bitbucket.org/bogdanmarius/ ✔
+
+### For future reference, forked repositories might still appear here berfore moving them to Bitbucket. 👈
+
 <!--
 **bursan85/bursan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-The reporsitories hosted on this Github account where moved to Bitbucket
-You can access them here: -> https://bitbucket.org/bogdanmarius/
 
 Here are some ideas to get you started:
 
