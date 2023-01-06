@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### The repositories hosted on this Github account where moved to Bitbucket. 🚚
+### The repositories hosted on this Github account where moved to GitLab. 🚚
 
-### You can access them here: -> https://bitbucket.org/bogdanmarius/ ✔
+### You can access them here: -> https://gitlab.com/bogdanmarius ✔
 
-### For future reference, forked repositories might still appear here berfore moving them to Bitbucket. 👈
+### For future reference, forked repositories might still appear here berfore moving them to GitLab. 👈
 
 <!--
 **bursan85/bursan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
